@@ -72,7 +72,7 @@ move get_human_move(chessboard C){
     }
 
     if (!stop){
-      std::cout << "move illégal, les moves légaux sont :" << std::endl;
+      std::cout << "move illégal, legal moves are :" << std::endl;
       for (auto it = moves.begin(); it != moves.end(); ++it){
         display_move(*it);
       }
