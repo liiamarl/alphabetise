@@ -19,3 +19,5 @@ Alphabetise is far from perfect, it struggle a bit in the endgame, might move th
 also once i spotted a bug when it played a bad move thinking it was 100% winning (evaluation at +150000, witch is not supposed to be reachable). didn't looked for the problem.
 My ELO rating is around 1400 and Alphabetise kicks my ass almost every time (either i get destroyed in the midgame or i manage to survive untill the endgame and then i have my chances).
 It probably wouldn't beat any grandmaster, but it would destroy any begginer.
+
+In order to play against it you must execute the a.out file from a terminal.
