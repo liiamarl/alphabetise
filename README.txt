@@ -20,4 +20,4 @@ also once i spotted a bug when it played a bad move thinking it was 100% winning
 My ELO rating is around 1400 and Alphabetise kicks my ass almost every time (either i get destroyed in the midgame or i manage to survive untill the endgame and then i have my chances).
 It probably wouldn't beat any grandmaster, but it would destroy any begginer.
 
-In order to play against it you must execute the a.out file from a terminal.
+In order to play against it you must execute the a.out file from a terminal on a linux computer, or re compile it if you're on windows / OS.
